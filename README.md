@@ -6,7 +6,6 @@
 
 I've always enjoyed bringing ideas to life, and programming became the medium through which I found the perfect way to realize this passion.</p>&nbsp;
 
-
 ### Tech Stack
 
 <div>
@@ -39,4 +38,3 @@ I've always enjoyed bringing ideas to life, and programming became the medium th
     <img src="assets/gmail.svg" height="50" alt="gmail"/>
   </a>
 </div>
-
