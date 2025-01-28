@@ -1,6 +1,6 @@
 # I'm Ivan Vasilevsky
 
-<img src="assets/anim.gif"/>
+<img width="100%" src="assets/anim.gif"/>
 
 ### About
 
